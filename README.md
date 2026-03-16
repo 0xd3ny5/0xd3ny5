@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/background.jpg" alt="Project Preview" width="700" />
+  <img src="https://cdn.jsdelivr.net/gh/0xd3ny5/0xd3ny5@main/assets/background.jpg?raw=true" alt="Project Preview" width="700" />
 </p>
 
 <p align="center">
